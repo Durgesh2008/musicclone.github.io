@@ -120,3 +120,12 @@ nav ul li{
 .songlen{
     padding: 2rem;
 }
+@media  screen and (max-width:600px) {
+    #title{
+        margin-top: 30px;
+        font-size: 12px;
+    }
+    .fa-solid{
+        padding: 1px;
+    }
+}
